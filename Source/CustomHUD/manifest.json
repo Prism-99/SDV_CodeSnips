@@ -1,0 +1,10 @@
+{
+  "Name": "Custom HUD",
+  "Author": "Prism 99",
+  "Version": "1.0.0",
+  "Description": "Lets you customize the Health and Stamina HUDs.  This is a shell to build upon.",
+  "UniqueID": "prism99.CustomHUD",
+  "EntryDll": "CustomHUD.dll",
+  "MinimumApiVersion": "3.13.0",
+  "UpdateKeys": []
+}
